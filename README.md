@@ -9,5 +9,5 @@ Close the program if the username or the password is blank ✓
 
 Password double checker in case of any typos ✓
 
-Add a email verificatiom system (Working on it)
+Add a email verification system (Working on it)
 
