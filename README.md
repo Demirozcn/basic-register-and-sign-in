@@ -11,4 +11,6 @@ Password double checker in case of any typos ✓
 
 Add a email verification system ✓
 
+Add loops ✓
+
 (please tell if you have any recommendations)
