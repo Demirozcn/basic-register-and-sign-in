@@ -1,5 +1,5 @@
 # basic-register-and-sign-in
-This is a basic registration and sign in system written on python written By Demir Özcan (me) And my brother Berk Özcan
+This is a basic registration and sign in system written on python written By Demir Özcan
 
 To do list: 
 
