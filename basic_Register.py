@@ -1,4 +1,4 @@
-# Written by Demir https://github.com/Demir017/basic-register-and-sign-in
+# Written by Demir https://github.com/demirozcn/basic-register-and-sign-in
 test = True
 blank = ''
 register_email = True
